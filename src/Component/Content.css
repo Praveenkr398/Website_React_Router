@@ -1,0 +1,28 @@
+.box{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    align-content: center;
+    padding-top: 100px;
+    border-bottom: 2px solid red;
+    color: red;
+    box-sizing: border-box;
+    font-size: 100px;
+    border-bottom: 2px solid red;
+    
+}
+
+.searchId{
+    border-bottom: 2px solid black;
+    font-size: 100px;
+    margin-top: 30px;
+    padding: 30px 100px;
+    width: 80%;
+    text-align: center;
+    border-top: 2px solid red;
+    background-color: rgb(251, 250, 250);
+
+}
