@@ -23,7 +23,7 @@ The **Simple Website Using React & Router** is a multi-page web application buil
 ![Simple Website Using React & Router](https://github.com/user-attachments/assets/4e461490-3e47-49c7-8314-8162fd8aec9c)
 
 
-Category:- "Website, React, Router,CSS"
+Category:- "Website , React , Router, CSS"
 
 ## 📂 Project Structure
 ```
